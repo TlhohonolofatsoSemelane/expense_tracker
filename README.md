@@ -1,8 +1,7 @@
 # ExpenseTracker
 
 A simple personal expense tracker built with Flutter and Dart, developed as
-the final project for my Industrial Attachment / Practicum at Academic
-Bridge.
+the final project for my Industrial Attachment / Practicum at [Academic Bridge](https://academicbridge.xyz/).
 
 ## Features
 
@@ -15,6 +14,28 @@ Bridge.
   progress bar (green → orange → red) and an "over budget" warning when
   exceeded
 - All data is stored locally on the device (no backend/internet required)
+
+## Screenshots
+
+### Home Dashboard
+
+<img width="202" height="409" alt="image" src="https://github.com/user-attachments/assets/6ff114cc-c515-4d1c-a320-c56a68cdf032" />
+
+### Budgets
+
+<img width="207" height="414" alt="Budgets" src="https://github.com/user-attachments/assets/72a80923-1c16-44cb-99bf-f34c65719f7e" />
+
+### Statistics
+
+<img width="208" height="416" alt="Statistics" src="https://github.com/user-attachments/assets/5618b32b-701b-452f-8b4a-cf596ce1aefe" />
+
+### Add Expenses
+
+<img width="202" height="418" alt="AddExpense" src="https://github.com/user-attachments/assets/9a3c5c43-621a-4858-b015-90f7ac6d6af7" />
+
+### Add Incomes
+
+<img width="197" height="412" alt="AddIncome" src="https://github.com/user-attachments/assets/060aa7f1-56fe-4bd7-b87d-95bbe420e554" />
 
 ## Tech stack
 
@@ -70,3 +91,12 @@ lib/
 - Monthly view / budget limits per category
 - Export transactions to CSV
 - Cloud sync (e.g. Firebase) instead of local-only storage
+
+## Background
+
+This app was built during my Industrial Attachment at Academic Bridge
+(Mobile App Development team), as part of the requirements for my Bachelor
+of Science in Software Engineering at the Adventist University of Central
+Africa (AUCA). It demonstrates Dart/Flutter fundamentals, state management
+with Provider, local data persistence, and data visualization — the core
+skills covered during the attachment.
