@@ -7,7 +7,7 @@ the final project for my Industrial Attachment / Practicum at [Academic Bridge](
 
 - Add income and expense transactions (title, amount, category, date)
 - Home dashboard showing balance, income, and expenses **for the selected month**
-- Month selector (◀ ▶) on Home, Statistics, and Budgets to browse any month
+- Month selector on Home, Statistics, and Budgets to browse any month
 - Transaction list, newest first, with swipe-to-delete
 - Statistics screen with a pie chart of spending by category, per month
 - **Budgets tab** — set a monthly spending limit per category, with a
@@ -88,15 +88,7 @@ lib/
 ## Possible improvements
 
 - Filter/search transactions by category or date range
-- Monthly view / budget limits per category
+- Budget notifications/alerts
 - Export transactions to CSV
 - Cloud sync (e.g. Firebase) instead of local-only storage
 
-## Background
-
-This app was built during my Industrial Attachment at Academic Bridge
-(Mobile App Development team), as part of the requirements for my Bachelor
-of Science in Software Engineering at the Adventist University of Central
-Africa (AUCA). It demonstrates Dart/Flutter fundamentals, state management
-with Provider, local data persistence, and data visualization — the core
-skills covered during the attachment.
